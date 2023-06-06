@@ -1,8 +1,9 @@
 # ClockApp
 
-Projekt pisany jako praca inżynierska. Kiedyś przepiszę to jak należy w react.
+The project was developed as an engineering thesis. Maybe I will rewrite it properly in React in the future.
 
-W projekcie wykorzystałem HTML, SCSS, JavaScript oraz Fetch API. Użytkownik ma do dyspozycji stoper,
-minutnik, budzik oraz czas światowy dzięki połączeniu z API. Alarmy oraz miasta są zapisywana w localStorage.
+In the project, I utilized HTML, SCSS, JavaScript, and the Fetch API. 
+Users have access to a stopwatch, timer, alarm clock, and world time functionality through API integration. 
+Alarms and cities are saved in localStorage.
 
 Live: https://k-sieradzki.github.io/ClockApp/
